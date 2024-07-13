@@ -1,0 +1,3439 @@
+{
+    "places": [
+        {
+            "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik",
+            "id": "ChIJCbp2bw4DaDQRCH76N9SNlik",
+            "types": [
+                "chinese_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "02 3151 7938",
+            "internationalPhoneNumber": "+886 2 3151 7938",
+            "formattedAddress": "No. 193號, Jingan Rd, Zhonghe District, New Taipei City, Taiwan 235",
+            "addressComponents": [
+                {
+                    "longText": "193號",
+                    "shortText": "193號",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "en-US"
+                },
+                {
+                    "longText": "Jingan Road",
+                    "shortText": "Jingan Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "景福里",
+                    "shortText": "景福里",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ],
+                    "languageCode": "zh-TW"
+                },
+                {
+                    "longText": "Zhonghe District",
+                    "shortText": "Zhonghe District",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "New Taipei City",
+                    "shortText": "New Taipei City",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Taiwan",
+                    "shortText": "TW",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "235",
+                    "shortText": "235",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7QP3XGV3+5X",
+                "compoundCode": "XGV3+5X Taiwan, 新北市中和區景福里"
+            },
+            "location": {
+                "latitude": 24.9929001,
+                "longitude": 121.50497229999998
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.9915752697085,
+                    "longitude": 121.50351906970849
+                },
+                "high": {
+                    "latitude": 24.994273230291505,
+                    "longitude": 121.50621703029148
+                }
+            },
+            "rating": 4.8,
+            "googleMapsUri": "https://maps.google.com/?cid=2996738544673390088",
+            "websiteUri": "https://www.facebook.com/Chongqingchuanchuan?locale=zh_TW",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 2,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 2:00 AM",
+                    "Tuesday: 11:00 AM – 2:00 AM",
+                    "Wednesday: 11:00 AM – 2:00 AM",
+                    "Thursday: 11:00 AM – 2:00 AM",
+                    "Friday: 11:00 AM – 2:00 AM",
+                    "Saturday: 11:00 AM – 2:00 AM",
+                    "Sunday: 11:00 AM – 2:00 AM"
+                ]
+            },
+            "utcOffsetMinutes": 480,
+            "adrFormatAddress": "<span class=\"street-address\">No. 193號, Jingan Rd, 景福里</span> <span class=\"locality\">Zhonghe District</span>, <span class=\"region\">New Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">235</span>",
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "userRatingCount": 1169,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "姐 夫重慶串串鍋",
+                "languageCode": "zh-TW"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Chinese Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": false,
+            "dineIn": true,
+            "curbsidePickup": true,
+            "reservable": true,
+            "servesBreakfast": false,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBeer": true,
+            "servesWine": false,
+            "servesBrunch": false,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 14
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 2,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 14
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 2:00 AM",
+                    "Tuesday: 11:00 AM – 2:00 AM",
+                    "Wednesday: 11:00 AM – 2:00 AM",
+                    "Thursday: 11:00 AM – 2:00 AM",
+                    "Friday: 11:00 AM – 2:00 AM",
+                    "Saturday: 11:00 AM – 2:00 AM",
+                    "Sunday: 11:00 AM – 2:00 AM"
+                ]
+            },
+            "currentSecondaryOpeningHours": [
+                {
+                    "openNow": true,
+                    "periods": [
+                        {
+                            "open": {
+                                "day": 0,
+                                "hour": 11,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 14
+                                }
+                            },
+                            "close": {
+                                "day": 1,
+                                "hour": 2,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 15
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 1,
+                                "hour": 11,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 15
+                                }
+                            },
+                            "close": {
+                                "day": 2,
+                                "hour": 2,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 16
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 2,
+                                "hour": 11,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 16
+                                }
+                            },
+                            "close": {
+                                "day": 3,
+                                "hour": 2,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 17
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 3,
+                                "hour": 11,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 17
+                                }
+                            },
+                            "close": {
+                                "day": 4,
+                                "hour": 2,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 18
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 4,
+                                "hour": 11,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 18
+                                }
+                            },
+                            "close": {
+                                "day": 4,
+                                "hour": 23,
+                                "minute": 59,
+                                "truncated": true,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 18
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 5,
+                                "hour": 0,
+                                "minute": 0,
+                                "truncated": true,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 12
+                                }
+                            },
+                            "close": {
+                                "day": 5,
+                                "hour": 2,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 12
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 5,
+                                "hour": 11,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 12
+                                }
+                            },
+                            "close": {
+                                "day": 6,
+                                "hour": 2,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 13
+                                }
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 6,
+                                "hour": 11,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 13
+                                }
+                            },
+                            "close": {
+                                "day": 0,
+                                "hour": 2,
+                                "minute": 0,
+                                "date": {
+                                    "year": 2024,
+                                    "month": 7,
+                                    "day": 14
+                                }
+                            }
+                        }
+                    ],
+                    "weekdayDescriptions": [
+                        "Monday: 11:00 AM – 2:00 AM",
+                        "Tuesday: 11:00 AM – 2:00 AM",
+                        "Wednesday: 11:00 AM – 2:00 AM",
+                        "Thursday: 11:00 AM – 2:00 AM",
+                        "Friday: 11:00 AM – 2:00 AM",
+                        "Saturday: 11:00 AM – 2:00 AM",
+                        "Sunday: 11:00 AM – 2:00 AM"
+                    ],
+                    "secondaryHoursType": "LUNCH"
+                }
+            ],
+            "regularSecondaryOpeningHours": [
+                {
+                    "openNow": true,
+                    "periods": [
+                        {
+                            "open": {
+                                "day": 0,
+                                "hour": 11,
+                                "minute": 0
+                            },
+                            "close": {
+                                "day": 1,
+                                "hour": 2,
+                                "minute": 0
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 1,
+                                "hour": 11,
+                                "minute": 0
+                            },
+                            "close": {
+                                "day": 2,
+                                "hour": 2,
+                                "minute": 0
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 2,
+                                "hour": 11,
+                                "minute": 0
+                            },
+                            "close": {
+                                "day": 3,
+                                "hour": 2,
+                                "minute": 0
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 3,
+                                "hour": 11,
+                                "minute": 0
+                            },
+                            "close": {
+                                "day": 4,
+                                "hour": 2,
+                                "minute": 0
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 4,
+                                "hour": 11,
+                                "minute": 0
+                            },
+                            "close": {
+                                "day": 5,
+                                "hour": 2,
+                                "minute": 0
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 5,
+                                "hour": 11,
+                                "minute": 0
+                            },
+                            "close": {
+                                "day": 6,
+                                "hour": 2,
+                                "minute": 0
+                            }
+                        },
+                        {
+                            "open": {
+                                "day": 6,
+                                "hour": 11,
+                                "minute": 0
+                            },
+                            "close": {
+                                "day": 0,
+                                "hour": 2,
+                                "minute": 0
+                            }
+                        }
+                    ],
+                    "weekdayDescriptions": [
+                        "Monday: 11:00 AM – 2:00 AM",
+                        "Tuesday: 11:00 AM – 2:00 AM",
+                        "Wednesday: 11:00 AM – 2:00 AM",
+                        "Thursday: 11:00 AM – 2:00 AM",
+                        "Friday: 11:00 AM – 2:00 AM",
+                        "Saturday: 11:00 AM – 2:00 AM",
+                        "Sunday: 11:00 AM – 2:00 AM"
+                    ],
+                    "secondaryHoursType": "LUNCH"
+                }
+            ],
+            "primaryType": "chinese_restaurant",
+            "shortFormattedAddress": "No. 193號, Jingan Rd",
+            "reviews": [
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMeHNmT0dREAE",
+                    "relativePublishTimeDescription": "3 weeks ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Good eat",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Good eat",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "T C",
+                        "uri": "https://www.google.com/maps/contrib/114637507783916112470/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuiixHR3mZ9VAykx0PSd6u9wCUkLefgQ1r6U6BiGQJ9Mrr9uk=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2024-06-18T16:14:05Z"
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtck9mMGZBEAE",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "great location really good soup base! The soup already has duck blood inside!\nFriendly staff :)",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "great location really good soup base! The soup already has duck blood inside!\nFriendly staff :)",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Michele Li",
+                        "uri": "https://www.google.com/maps/contrib/116553428695230967179/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUC7i8wEvBGIDejkiNFKdnWvUnGmi00MRhCAjhEOWwHCRiM-ewK=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2022-11-23T11:59:18Z"
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/reviews/ChZDSUhNMG9nS0VJQ0FnSURKZ3NQaEpREAE",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Love this place. Remember to reserve ahead of time because it gets quite packed!",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Love this place. Remember to reserve ahead of time because it gets quite packed!",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Florence Hung",
+                        "uri": "https://www.google.com/maps/contrib/115598876679306959100/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtwVzZWJd251qTlfaxYUBNj6U29j18YGTEngM9pQYGtw2miiJ--w=s128-c0x00000000-cc-rp-mo-ba5"
+                    },
+                    "publishTime": "2023-07-13T10:33:56Z"
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEODlycGxnRRAB",
+                    "relativePublishTimeDescription": "3 months ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "awesome！",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "awesome！",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Usei Tanior",
+                        "uri": "https://www.google.com/maps/contrib/100608321657271256435/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW21IODrqcyfEQD7FBQvizFUOZQgcWb7aNOpaNVkBZFRRNbI_WJ=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2024-04-01T12:28:30Z"
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbTU2RFJREAE",
+                    "relativePublishTimeDescription": "4 months ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Delicious!  👍👍👍",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Delicious!  👍👍👍",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "劉家羽",
+                        "uri": "https://www.google.com/maps/contrib/101414645609583710748/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5VAo2jeZMMa5gh0awWl9LM-DSvWc3h3aGe_SN3Db5YrAH6Yc=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2024-02-18T13:41:23Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXXatgIyfh8Tl7Fz0EcRcxzWNpuOvuZqnWtJNTpnod9JWrVmeicTiAyongoYEk3fdLBOaD8VcW6JCzYB2j79iUIkmdAzMul-OnCZLYBYiUSwM01b9zo5PJqPhfxgE0XV-d_fS-aobX61UuGZyNxet8rJBik8MREcGTpg",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "0207 Chen",
+                            "uri": "//maps.google.com/maps/contrib/104806463077558030515",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXt5-8Tq7akyjjZ10WV3YU4P7Gkt1qLZNT3ILtDdibT7Fy2NPnI=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXVvbZvXiJ8JgUUzerc8Tp-sREJA_6gthmMRsFv0OJ3h6vq78ZPfgonS1NeHKl6HLnznJmJzJc5MHY-EV1EGzaTCj--wCVB4V0jrkj00TrT4jcL_EnyaQkkKEdz-dsyqHa7xSYpdan9rbtfVd-dJvfX2Ju1bIZgcbcjM",
+                    "widthPx": 4624,
+                    "heightPx": 2604,
+                    "authorAttributions": [
+                        {
+                            "displayName": "李添銀",
+                            "uri": "//maps.google.com/maps/contrib/105981146037100816838",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKNrTswGmm_DCBIS9a7k_xJTiTlUnjeSdHB-fiD0T6iZI6kJpN=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXUtsOgEtng5I_5PngWe5GRVYHCvafKj1zawJ3mbjSlh5JNxgUrNCo17pblE9HRa64dCo9fP6JYmbK0DBg9Gr7iI4bcOSCL-mZclPWy5agfjEjsLF_sqhcKr0-gMC-_J485OcURVhv59TaOC7C5AuPKHw3MO3yZVdXVD",
+                    "widthPx": 3456,
+                    "heightPx": 3188,
+                    "authorAttributions": [
+                        {
+                            "displayName": "欣宜",
+                            "uri": "//maps.google.com/maps/contrib/102982079867005211535",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIFrB4oidrG6e9U0xeEE4sxnRx3enCFbA5jOrbC1e7UbEVW0g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXX1XZqabTWcEvXREmLziYZTUavA2Ok9fP1cKQUhtTnugvRfug-BhgL2RcQf3o0CdiIy2Q58c7H5NENHvrHq4rUy7Iw_FjHH-Rz_u4WOInwd6Zs2fcRsv4sHTzYu_dtvvojZHVBeM64p2N9YrXOlnX7UhEgrAMWgoU0",
+                    "widthPx": 2880,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "張佳雯",
+                            "uri": "//maps.google.com/maps/contrib/109016228518971405241",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocL-KkYhU0hbZPtwmAmfed8uKns0WPgp6JITJGDbPbqeg8rG=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXWV5uYa6K99n6Rs12BoWfH8l6Lsbxr8sF295OBdjdBNcJWnyRGYy0l4RHP9JHfUIG9UNPEeSYJCDv-8G_ReBOiz9J07dmvilOxbvRT6RuU7i_oZWo96ctsfQ_Wj96gYLm0zeDhCn1YBwrEgDIiBii3jJrnm_QJrBmIm",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aray Chen",
+                            "uri": "//maps.google.com/maps/contrib/112994044288528737202",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKvKxsrevddP5GiHe7ue6VG9TJJqtAG7KTIl-VwsZBO9QWylA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXVsHR31CpTQ-iFIGdASUh5FWs5Rqs__mN-XT0W0Vo2_b3DQZJa42fVJeT35fAAHOhIv-Dye95xbqnx_a8677ca1i3oMwhuYytppNWo97tmdSMGtoJPlGogKYCMEPY4PJ3Lm5JhrEEhO3nYOW7ItHRP-LwfCFZYwngzS",
+                    "widthPx": 3060,
+                    "heightPx": 4080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "棱棱",
+                            "uri": "//maps.google.com/maps/contrib/115999050539567300349",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSnYAqcsQp24oD8DuQCifVqH3fSHNldyUqtyJ8QFZ5bNhVwlqy=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXWwtBSCTk2-JlWVaf33ri2r2XaA7D_dDi_tHVmCqzzYm7Ahnn0Rt3Kp7tidmW2F5Ue1efb9Yc0X_QpyTQCAw8jb2eObyY447D5E29ne09RGCATL2N0FpJlQhgJBqCGKwSNCVaxwTmiVdm7YMvTH4IgUcP9l0kyhPp2e",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "謝小翼",
+                            "uri": "//maps.google.com/maps/contrib/107974303904174040958",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVWtY-e57Q4ookIgkAMASgGcTJJxe1eVeHW92jHsH77ofMeahA9=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXWKEHsfNKiScHydHxULznCyxLzhCC4Jbzo4uv4mlGT9kMMFJDgkrFqQ8iOLOKXHS8RAOpgkFc4U9sStPLSjbRRhesCjb9ZzUmVhIzYb_CKMP9j-fE5inqxtgvM4T9u3lwGXmSkbKXzX62jk2HIiikV83AONsY1xXInF",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "陳伯烱",
+                            "uri": "//maps.google.com/maps/contrib/108313230644332994065",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJYfo1obs1KMEZhifkpaPSE-adi__KNeXB2f-RWl4MSiyg5ln9B=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXV3FUkv1wMk9Z1Gj3LK9sG_U3oGbY7jjsabd4Wm1UiRd9k1r80AVqWIiyQxM7M7Zs5CqFUmbxy732ga-gzPjkDEUQ26wyyuX5Je5bdlLU2w57Ikshc_WC8zV6_sSivv02VIQUfM9u_7yo4DA5L1EaSNnl2h0_9Pxuyb",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "張賢勇 Henry Sony TW",
+                            "uri": "//maps.google.com/maps/contrib/100393735500274125406",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWSw1D-6w7CG7TtzSAQSUWwtqgWtIcd7SZLEm09WMH4_E_Fved8=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJCbp2bw4DaDQRCH76N9SNlik/photos/AUc7tXVzcH4LNyqoOfGdrFxYzr-yAZEvzPZHJAHOfq9zosdEEwljxxc2pXUZwURWSJp_GUQxJZYE9EiPtoHoA3LiBsa3E2-x61cCjF0zEasJiRdRL-dYazmPzRldZoec7T1SaqaSWp_95fgIhcXgeUb9WHtPbeYqQvVeRea5",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "張永昌",
+                            "uri": "//maps.google.com/maps/contrib/115819093812145714407",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVJknG6olPa_OAopm3hz7QICB8jFf76vT0HuJ76do2q7VlYGm6Xig=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesCocktails": false,
+            "servesDessert": false,
+            "servesCoffee": false,
+            "goodForChildren": true,
+            "allowsDogs": true,
+            "restroom": true,
+            "goodForGroups": true,
+            "paymentOptions": {
+                "acceptsCashOnly": true
+            },
+            "parkingOptions": {
+                "freeParkingLot": true,
+                "freeStreetParking": true
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleSeating": false
+            }
+        },
+        {
+            "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A",
+            "id": "ChIJq8xGJXcCaDQR0pDGNpOWJ3A",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "formattedAddress": "No. 181號, Jingan Rd, Zhonghe District, New Taipei City, Taiwan 235",
+            "addressComponents": [
+                {
+                    "longText": "181號",
+                    "shortText": "181號",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "en-US"
+                },
+                {
+                    "longText": "Jingan Road",
+                    "shortText": "Jingan Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "景福里",
+                    "shortText": "景福里",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ],
+                    "languageCode": "zh-TW"
+                },
+                {
+                    "longText": "Zhonghe District",
+                    "shortText": "Zhonghe District",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "New Taipei City",
+                    "shortText": "New Taipei City",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Taiwan",
+                    "shortText": "TW",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "235",
+                    "shortText": "235",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7QP3XGV3+8X",
+                "compoundCode": "XGV3+8X Taiwan, 新北市中和區景福里"
+            },
+            "location": {
+                "latitude": 24.9932902,
+                "longitude": 121.504974
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.991953569708496,
+                    "longitude": 121.50357156970851
+                },
+                "high": {
+                    "latitude": 24.994651530291502,
+                    "longitude": 121.50626953029149
+                }
+            },
+            "rating": 3.5,
+            "googleMapsUri": "https://maps.google.com/?cid=8081593615362986194",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 0,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "utcOffsetMinutes": 480,
+            "adrFormatAddress": "<span class=\"street-address\">No. 181號, Jingan Rd, 景福里</span> <span class=\"locality\">Zhonghe District</span>, <span class=\"region\">New Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">235</span>",
+            "businessStatus": "OPERATIONAL",
+            "userRatingCount": 986,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "大華 虱目魚肚、郭魚湯",
+                "languageCode": "ja"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": true,
+            "dineIn": true,
+            "reservable": false,
+            "servesBreakfast": true,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBeer": false,
+            "servesWine": false,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: Open 24 hours",
+                    "Tuesday: Open 24 hours",
+                    "Wednesday: Open 24 hours",
+                    "Thursday: Open 24 hours",
+                    "Friday: Open 24 hours",
+                    "Saturday: Open 24 hours",
+                    "Sunday: Open 24 hours"
+                ]
+            },
+            "primaryType": "restaurant",
+            "shortFormattedAddress": "No. 181號, Jingan Rd",
+            "reviews": [
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2bS16MWxBRRAB",
+                    "relativePublishTimeDescription": "2 years ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Best milk fish belly soup you can find in town",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Best milk fish belly soup you can find in town",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Jay Tseng",
+                        "uri": "https://www.google.com/maps/contrib/115531104027106036689/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHwXkQ4BTRW6SNqS-uaaAocDC6uBDOP3zeM7CSNEyJ39YjnHFBdQ=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2021-10-13T03:26:50Z"
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2MTQtZ1hnEAE",
+                    "relativePublishTimeDescription": "2 years ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Fresh milk fish belly",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Fresh milk fish belly",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "marinecorps tseng",
+                        "uri": "https://www.google.com/maps/contrib/116723134430425474543/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBPl5CVgyJbIPZlcRHW31Z6iAp1ZcipzKl0NFF8F7SoEchIpvljg=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2021-10-14T08:05:57Z"
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/reviews/ChdDSUhNMG9nS0VJQ0FnSUREaHV1TmxnRRAB",
+                    "relativePublishTimeDescription": "3 months ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "It is also a long-established store that has been open for a long time and is very popular. Just cross the road diagonally across from Jing'an Station. The cuisine is Taiwanese and local.\n\n1. Pan-fried milkfish belly\nThe most famous one is the fried milkfish maw. The golden fish maw is more delicious than the local ones in Tainan. I give it a full five stars💯\n\n2. Braised pork rice\nThe taste is good and very authentic!\n\n3. Pork rice\nThe braised pork is also very good, but there are no toppings. It would be better if there were more braised pork.\n\n4. Dried bamboo shoots\nDelicious, not greasy and plenty of portion\n\n5. Fried tofu\nIt's a failure. It feels a little sour (not that it's broken). It would be better if it was made more porous to absorb juice.\n\nAll in all, it could be slightly improved, but it's definitely worth the money.",
+                        "languageCode": "en-US"
+                    },
+                    "originalText": {
+                        "text": "也是一間老牌店了開很久很久人氣很旺。在景安站斜對面過馬路就到。料理為台式本地口味。\n\n1.煎虱目魚肚\n最有名的就是煎虱目魚肚，黃金色的魚肚，煎的比台南本地的還要好吃，給五顆星滿分💯\n\n2.滷肉飯\n口味不錯，很道地！\n\n3.倥肉飯\n倥肉也很不錯，不過沒有配料就是，如果多些滷肉就更好了。\n\n4.筍乾\n好吃，不油膩份量也很足\n\n5.油豆腐\n比較敗筆，感覺稍微有點酸味（不是壞掉啦），如果弄得多孔吸汁一點就更棒啦\n\n總之稍可以改進，但絕對價超所值。",
+                        "languageCode": "zh-Hant"
+                    },
+                    "authorAttribution": {
+                        "displayName": "家光（公子光）",
+                        "uri": "https://www.google.com/maps/contrib/100346457995402491370/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXel7nPaNyaJlpC7G2pO0k59FWDu2i6HgtMGzRVdJh7Z7phguDs9A=s128-c0x00000000-cc-rp-mo-ba5"
+                    },
+                    "publishTime": "2024-04-08T16:07:18Z"
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6Nkt6U1dnEAE",
+                    "relativePublishTimeDescription": "a month ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "The street store diagonally opposite the exit of Jing'an Station looks like a large snack bar with a semi-open space. As soon as you enter, someone will ask what you want to eat.\n\nThe pork rice is $70 (pork, shredded bamboo shoots, rice). The meat is very well braised. You can separate the meat without too much effort and the flavor is infused.\nBlanched vegetables are $40. The taste is not too salty, but the saltiness is light, but I usually don’t eat too much, so it’s acceptable. There’s a lot of garlic.",
+                        "languageCode": "en-US"
+                    },
+                    "originalText": {
+                        "text": "景安站出口斜對面的路面店，外觀就是大間的小吃店，空間半開放式，一進門會有人詢問要吃什麼\n\n控肉飯$70（控肉、筍絲、飯），控肉滷的很爛了，不需要太費力就能夠分開肉，味道有滷進去。\n燙青菜$40，味道不會太鹹，鹹味偏淡，但我平常吃的不重口，可以接受，蒜頭給很多。",
+                        "languageCode": "zh-Hant"
+                    },
+                    "authorAttribution": {
+                        "displayName": "軒軒",
+                        "uri": "https://www.google.com/maps/contrib/112864894635615633144/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWP-4k9Se--U_nThMdXx-OPQrWnX6PLXO9ZJRjVfjo5O4U5xNulMA=s128-c0x00000000-cc-rp-mo-ba5"
+                    },
+                    "publishTime": "2024-05-30T11:37:42Z"
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkcm9feFdREAE",
+                    "relativePublishTimeDescription": "4 months ago",
+                    "rating": 3,
+                    "text": {
+                        "text": "2024.02.11 Sun.\nThe food is served quickly and the waiter has a good memory. The taste is average, especially the braised pork rice is on the bland side, as are the fish skin soup and fish maw soup. But being able to have late night snacks at 11:30 pm is a small blessing.",
+                        "languageCode": "en-US"
+                    },
+                    "originalText": {
+                        "text": "2024.02.11 Sun.\n上菜速度很快，店員記憶力很好。味道中規中矩，尤其滷肉飯味道偏清淡，魚皮湯和魚肚湯也是。但晚上11:30能吃到宵夜夜晚是小確幸。",
+                        "languageCode": "zh-Hant"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Wenyu Hsieh (陸上那隻吃貨魚)",
+                        "uri": "https://www.google.com/maps/contrib/111806063588826067033/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVs4EIp3nNQZlz6ryN6iJKmuaZAFcthY4ttbVfWMyarsL0EhqSD=s128-c0x00000000-cc-rp-mo-ba6"
+                    },
+                    "publishTime": "2024-02-15T09:40:29Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXW2021u9sjLniKsS8zNjGdnnr0ATGb6cKThJFGdgeND0hlsUIxVcgfC5kNpkwNWja7Q5mFn_9np3ACn7fGNaBP5OkCnUqErwqRkw5YCTqoS2Ac4p6pRZHsNDAX9saRHpZrNFQkb6sl7elOfHZB7dlFXETKJd4hodYLI",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "家光（公子光）",
+                            "uri": "//maps.google.com/maps/contrib/100346457995402491370",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXel7nPaNyaJlpC7G2pO0k59FWDu2i6HgtMGzRVdJh7Z7phguDs9A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXXPq6odX-eYhEeHV9oJHrMkziLcDLsDhbfgalQAgK6eePMQp1cOgAOLG-4j1bG_uqBaWQRJicJFiU5ewstNJLu0RXUoc8bCL-SwVB5j2nHVPcjx_mQYqgIxkQTUwT6tpKVrIp0bYV2MfisZ3_Ljui0w7pc67UwNBYjD",
+                    "widthPx": 4032,
+                    "heightPx": 2268,
+                    "authorAttributions": [
+                        {
+                            "displayName": "陳良魁",
+                            "uri": "//maps.google.com/maps/contrib/109829704615727317256",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWjr3_si_MUyDaK0vbUskUEPInENXmAmLENwQuAGghbtp4h60u08w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXWKAYPWnIT-IhhxoAQkH-kkD0qEDTC6KYpPXHqb1DBPVTwEVtlmVCJAq9BJ629cNta_nSr3fjL3E95CZuQSYRNRTjhSglOmS8Kpzj-EC-_cK-ElMl_a25gry6yhx9uvGP7Lr3eia4tf7OnQGX7hfTjlk6A2fBGQmh3t",
+                    "widthPx": 4028,
+                    "heightPx": 2269,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Bruce Lin",
+                            "uri": "//maps.google.com/maps/contrib/106861976713689735920",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWDpJSwNPeS1lONidZ-k4LR3g5-wB-zGSazhJOCZ7RjVTyfLZxufQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXW3wpHifeEL7M3egt5wV2Tpe44wgU0hE8yzXdWx-qcfmQCmgXwrKm1maTe2oSXvyaWpwfg1EZ8Wb6QTkrsHrxDS3HsQJGhmDr34DayiBq95IoOHVFvWEi03gJYOwVOMlpNYHtl3JBgciw9IWQn-bRel6ndzidL-jmG4",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "家光（公子光）",
+                            "uri": "//maps.google.com/maps/contrib/100346457995402491370",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXel7nPaNyaJlpC7G2pO0k59FWDu2i6HgtMGzRVdJh7Z7phguDs9A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXXnSm9unRZ07V5u7_ibudseLhcB4Hl6IFwtfXlB0jfiW0bEcj_pJAO25C5zlz5WTp4i4_wRzvVEWVGy6C-fcGEoimigG8J6sJJ-Jb_XvSDAj8UWnIKNKJjgAcg_PUvY4yVAgUG54RrmqitUvj0aOphWzPO-K7c1y1Pd",
+                    "widthPx": 4032,
+                    "heightPx": 2268,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Wenyu Hsieh (陸上那隻吃貨魚)",
+                            "uri": "//maps.google.com/maps/contrib/111806063588826067033",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVs4EIp3nNQZlz6ryN6iJKmuaZAFcthY4ttbVfWMyarsL0EhqSD=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXUdfnRQj1wv3wOGV9YTaqyhHvmRriibM9jL_EkXuUEaudz2lRR8aHUnykrOlAsieOxsL5AdsIxHvHFvP1OHFpgUIjw07MhomWYPcodpNc_WA87121rVDz8x6bpyvEm5kdCZRcG8_vvJB09GqAQSkzVN7euKirshwP9Z",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "TH Chen",
+                            "uri": "//maps.google.com/maps/contrib/115516548211295209618",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVRSohQrORjYtkbQrJHf2xl6lFsiIeWw64-M1moa8vDIUmulstrQw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXWSRG02EerAhIu9ZUOuJvlaGxlmhGJLoU-vmttroKxccsPFLEo5H40MsGYFkUGPvExANnXFfweUaupretMT2ptU07jKykrYIcMbZKOGQBbLlygVvu2n7f6Kyk-e1DpILIfcnSYAhva0YPhbLiClkRRQ7axFxNLJq4gO",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "新哥life",
+                            "uri": "//maps.google.com/maps/contrib/116100833422876834793",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWY4cY_a0rNFfBD9RI8nGDZl5jwrweP-shUz90tU0dssT1O6uY=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXVrwLTh0T1T6W3ZlThnR7Ii2nw_Ghhbm3RVRqD2WU8Jo_LwHKCsmOsewfFRNWDuT7m81WijY3gN6pBEpwgrFE8OHDm8OBBG4JLdXoqne0CCWRT5d1o5FbiNfVDeIvi2iSOPHSIXmnE-qWxGsJ_txCjxGaMHrHh2SLkh",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Wei Ai",
+                            "uri": "//maps.google.com/maps/contrib/111910373996489625559",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWIUdDB8UpyqbLRopidCTdQli66SRcKn-i9FPyWyLtu0qZuiusa=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXWjVdK3JbrjePA3opdZ401vZI4GM-xMSR6mYnuUkUcTyHwA7KAlG6R-TDsmdX3f8VO9OU8E3vvhS7LWmyLikLPvFsu8WFOo9ELUg-_84BhP2cctpR13duv6NnAMcGwuTRDblioQYufC-3SJlyQXAjrlTGknflDujP-M",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "そうこういち",
+                            "uri": "//maps.google.com/maps/contrib/106107404071299296599",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXCju1YlJBsVEL32j9LJ1vg52xif4uWIrYENnoTbmCuaYSLiJCv=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJq8xGJXcCaDQR0pDGNpOWJ3A/photos/AUc7tXUrNoVexCD2xH05zuSxa_DvR7X7XXqOOJb_a_eD88j2Nby1xNR2VlRbyBGL6rALidxJozN9c5_LwS0vClQ9U8Qy2i_7fHjjImHR_Yo1IausEk0IbIcuVwa0OTMSFD0M8GL6RpNiBpcH3mxUWxchDrrOiql8jXOz6nKd",
+                    "widthPx": 4000,
+                    "heightPx": 2252,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Meck大叔",
+                            "uri": "//maps.google.com/maps/contrib/112350194573469681900",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjULJXrmAmyDTywx474UC1N3M0v2aSFfWlztL-GTAX7Kcpfl3ryULw=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": true,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesCocktails": false,
+            "servesDessert": false,
+            "servesCoffee": false,
+            "goodForChildren": true,
+            "restroom": true,
+            "parkingOptions": {
+                "freeParkingLot": false
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleSeating": false
+            }
+        },
+        {
+            "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8",
+            "id": "ChIJbY98tBsDaDQRX6zt5lBRfT8",
+            "types": [
+                "japanese_restaurant",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "02 8242 1080",
+            "internationalPhoneNumber": "+886 2 8242 1080",
+            "formattedAddress": "No. 218號, Bannan Rd, Zhonghe District, New Taipei City, Taiwan 235",
+            "addressComponents": [
+                {
+                    "longText": "218號",
+                    "shortText": "218號",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "en-US"
+                },
+                {
+                    "longText": "Bannan Road",
+                    "shortText": "Bannan Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "正行里",
+                    "shortText": "正行里",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ],
+                    "languageCode": "zh-TW"
+                },
+                {
+                    "longText": "Zhonghe District",
+                    "shortText": "Zhonghe District",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "New Taipei City",
+                    "shortText": "New Taipei City",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Taiwan",
+                    "shortText": "TW",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "235",
+                    "shortText": "235",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7QP3XFVX+J7",
+                "compoundCode": "XFVX+J7 Taiwan, 新北市中和區正行里"
+            },
+            "location": {
+                "latitude": 24.994075300000002,
+                "longitude": 121.4981672
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.992679369708497,
+                    "longitude": 121.49677166970851
+                },
+                "high": {
+                    "latitude": 24.995377330291504,
+                    "longitude": 121.4994696302915
+                }
+            },
+            "rating": 4.8,
+            "googleMapsUri": "https://maps.google.com/?cid=4574902204391861343",
+            "websiteUri": "https://www.facebook.com/profile.php?id=100083182065900",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 12,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 12,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 1,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 5:00 PM – 1:00 AM",
+                    "Tuesday: 5:00 PM – 1:00 AM",
+                    "Wednesday: 5:00 PM – 1:00 AM",
+                    "Thursday: 5:00 PM – 1:00 AM",
+                    "Friday: 5:00 PM – 1:00 AM",
+                    "Saturday: 12:00 PM – 1:00 AM",
+                    "Sunday: 12:00 PM – 1:00 AM"
+                ]
+            },
+            "utcOffsetMinutes": 480,
+            "adrFormatAddress": "<span class=\"street-address\">No. 218號, Bannan Rd, 正行里</span> <span class=\"locality\">Zhonghe District</span>, <span class=\"region\">New Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">235</span>",
+            "businessStatus": "OPERATIONAL",
+            "userRatingCount": 1382,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "饗醬燒烤【中和店】",
+                "languageCode": "zh-TW"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Japanese Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": false,
+            "delivery": false,
+            "dineIn": true,
+            "curbsidePickup": false,
+            "reservable": true,
+            "servesBreakfast": false,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBeer": true,
+            "servesBrunch": false,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 12,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 14
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 1,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 1,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 1,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 1,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 59,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 0,
+                            "minute": 0,
+                            "truncated": true,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 1,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 1,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 12,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 1,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 14
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 5:00 PM – 1:00 AM",
+                    "Tuesday: 5:00 PM – 1:00 AM",
+                    "Wednesday: 5:00 PM – 1:00 AM",
+                    "Thursday: 5:00 PM – 1:00 AM",
+                    "Friday: 5:00 PM – 1:00 AM",
+                    "Saturday: 12:00 PM – 1:00 AM",
+                    "Sunday: 12:00 PM – 1:00 AM"
+                ]
+            },
+            "primaryType": "japanese_restaurant",
+            "shortFormattedAddress": "No. 218號, Bannan Rd",
+            "reviews": [
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/reviews/ChdDSUhNMG9nS0VJQ0FnSURUa0ppLWt3RRAB",
+                    "relativePublishTimeDescription": "a month ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Dog-friendly yakiniku with really good prices! Came here on a Tuesday and the staff were really accomadating with our dog. They even have dog dishes! The human food is also really good :)",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Dog-friendly yakiniku with really good prices! Came here on a Tuesday and the staff were really accomadating with our dog. They even have dog dishes! The human food is also really good :)",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Breanna Piercy",
+                        "uri": "https://www.google.com/maps/contrib/109235970407132485350/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXHyjqWh7Ju6MuCcwYkZzE6KvMJG2Rm3ZQhMLyCeTe7j3uUA=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2024-05-21T12:05:11Z"
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/reviews/ChZDSUhNMG9nS0VJQ0FnSURUa0lUaGJnEAE",
+                    "relativePublishTimeDescription": "a month ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Best yakiniku in zhonghe, very pet friendly and the staff is always nice",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Best yakiniku in zhonghe, very pet friendly and the staff is always nice",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Carlos de la rosa",
+                        "uri": "https://www.google.com/maps/contrib/112307798252500951236/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOdIWAiDbMqo_W5V_zLWu1ExA4v6oC89nzpF24FGhbUbsQowuZ=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2024-05-21T12:08:47Z"
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/reviews/ChdDSUhNMG9nS0VJQ0FnSURadjVYZ2tRRRAB",
+                    "relativePublishTimeDescription": "9 months ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "It’s delicious here we came for my dogs birthday and they have a menu for dogs and he loves it! They have a wide variety of food to choose from as well!",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "It’s delicious here we came for my dogs birthday and they have a menu for dogs and he loves it! They have a wide variety of food to choose from as well!",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Blair Pang",
+                        "uri": "https://www.google.com/maps/contrib/114409354090139089001/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWehzOSLWYoZ9HNz-sbF9cc_l-CuRhmzuRi9lVzGURiV67sBWY=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2023-10-09T06:43:38Z"
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/reviews/ChdDSUhNMG9nS0VJQ0FnSURENHVpb2tBRRAB",
+                    "relativePublishTimeDescription": "3 months ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Nice place with pet friendly!",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Nice place with pet friendly!",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Grace Yang",
+                        "uri": "https://www.google.com/maps/contrib/105094695276749993334/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKc9jWP5fDFApG6XT9CP_XN18O61Brmy2rJDNklNXv3oMSSOg=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2024-04-07T10:08:12Z"
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4cTRHaEpBEAE",
+                    "relativePublishTimeDescription": "a year ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "verynice …I feel so good",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "verynice …I feel so good",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "羅玉桓",
+                        "uri": "https://www.google.com/maps/contrib/100570999355430846152/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5B0n-5nWiKqvPq4i4wVcNqizYDyyLC6N_PUCAVXeiDKQRtw=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2023-05-26T10:09:40Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXXU6Z4PYJJvPkqpFhiTAj5jlEAHXI2UEifDP1m3l7k0FuF2JQ3cfLx74zMyzQfZBTR-nveW3c5vAUyKTs9R_4Gx7Bvprpg02N9124sdUcs8HB75DaO9TN1j__Jnzrbv-tpj_EtbrsqsJNaSefez9-8NLbwskI0D5js5",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "饗醬燒烤【中和店】寵物友善餐廳",
+                            "uri": "//maps.google.com/maps/contrib/112747380109185918535",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIpF1KdR5It3y1nnYWk2JM3MPHs7h2cgVp5WRX4W7JPgExsBxM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXVPfzrQXMHiUmJDQKhGk-RhO5K2YIWJAmWUFvZawZaYkVaL9xkpN-tZPMcywJFvPdMv4gfv0kGReAkSxgaGYtxEI_pFYYHtZMNp082a2PzCi_t6B0OBaT1XMPRgJ0lJofBrR0LUWgch3YTL__X1ur-h92slEnHBG1wG",
+                    "widthPx": 1284,
+                    "heightPx": 723,
+                    "authorAttributions": [
+                        {
+                            "displayName": "饗醬燒烤【中和店】寵物友善餐廳",
+                            "uri": "//maps.google.com/maps/contrib/112747380109185918535",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIpF1KdR5It3y1nnYWk2JM3MPHs7h2cgVp5WRX4W7JPgExsBxM=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXXkQsdMxMEgqUs1W3CbtcinrTRM9mss4aWu26C7CmXWRm5I08GIH43TJHujNGYEhawa5s_8FoEheXIEKUENE0sASRNhK7elU7C6Z-vJz9-tCgKhUldG5Qtdg9wNuQLqJnoxr-H7UGj12MlBdmxfSb-KQ-l7AiPAKfqQ",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "shakin huang",
+                            "uri": "//maps.google.com/maps/contrib/109509261123068496011",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVemq9NyvfV30FGtX-G1b3UMYjesxA0zox8kEVdqxOvjJfXw0w=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXVi0RGLhxqKfDtqP255zZa5-aI2_v0ZxZXa90K9oRQ16kKjndNuXBT7VaDF2WDP2N2xuFw_CqCpkzmD1lHgI0kcvZM4GW-mR9QDVTXY7E7tNskrHz0fUr525WlcOBd0Kw6BHfekIOVsXlgG3oVDV1p5VbCm-DM5VaA",
+                    "widthPx": 4800,
+                    "heightPx": 3600,
+                    "authorAttributions": [
+                        {
+                            "displayName": "清水大輝",
+                            "uri": "//maps.google.com/maps/contrib/106762391796549647272",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWKmhp7o8rBWgoRKWvZSUO78jbrqSMC-V2v57dEtle6pvGwarc=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXWM_LtvhzHAWT6aqw0t4SiHorsT6ENKfRqdHe-77UIxer3dbj-pmQ2-K_HGJutsJag6QFsN5qTgL1QBDBob8pDlEBAATa47u4jf18LXbQMsu8diHumeygskPF1kARc6Zj2sALV00QwATGy2ebFzC0SThXMPyrQikG3d",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Lucky Lucky",
+                            "uri": "//maps.google.com/maps/contrib/113346672803682077820",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXXUQBa9SDOHAcVc7z-p3iGygZzDmpEnpb9zygj-vGvRWkEwYpNnA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXWd4d7MtKI0HU_ymyeAIJbvstebzCTfMibApqouzLnSCnCgC_llTdxhn-uD5g0NcXOdFK_yexCY59elmTUOqM9qkJcKAdq_vEZWYjVqmCCvzKBiX2A2fofC6FVdg-FjuTB-JwHL6Nfcn9sGnJgWxzNqC01Ph5KoRYe5",
+                    "widthPx": 3421,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "陳彤",
+                            "uri": "//maps.google.com/maps/contrib/108630912802421600381",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKLtFlueA6HdzbzKpYAvEc-PxK0Uirpn1GF-qpSkVyS_3j8Ig=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXW65JE_1FmN3Jxze0pKbrVWJs7pCLO7ASg9_lBnZvVEuoqrugh2ifbB5R7k9bwaIzlCIyIZ3WFRdKqtYUOMm_4IzXJMZ30sNaVYlEAiWFh4UTIT7uvIDWBN8_7dhm4TPiduxnl-BxLZ_Rc3HlHaPaGwVIGddm1jA9sT",
+                    "widthPx": 4624,
+                    "heightPx": 3468,
+                    "authorAttributions": [
+                        {
+                            "displayName": "傅元凱",
+                            "uri": "//maps.google.com/maps/contrib/101071997504309593236",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPlEyT4WupOLqypNTuhPkPT3QEX7qc7-BevNy2YE15Zj6UHQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXWYjQ98IaGh-Rd8wUuZYkn25lwfagX_-EUsWgbun_RmrH1sb5VClfwdrjUdL_RzHLt76tF50poG8GNIIKJTIJb5ITIxR5H_PwHeAPI4mPAS5x-KU9_R9jMsOO4M8sX1EQXWwHDszda2eHoMQLtiJpmFnAoEI_qGaHe3",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "林芳德",
+                            "uri": "//maps.google.com/maps/contrib/110376934992676684969",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJx61mN1TxTN9rMxtTPk2vQKLnN1u-D9ZOEtsFukAwtKFp20A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXU2GtCSdyBGwR6bxtdn9Q4he44eyGQNaWkhACxPw_N4bC6QNmJjChn7LKhlOwdTes0cQZjr5x-KT9xz9rYNBMDHobmAu9X8mu6R9tunrxxgQTLwSEpcGvJX91o-1TXxZC5_wK6DZCtbzzpjGxQ-7jcsGctC68PrfrGb",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "陳假裝",
+                            "uri": "//maps.google.com/maps/contrib/107669507693611646306",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXjuH_-AA1rOV0FahWmCqrdi2bxMEP9khdO_N-5CrRp5BUHEr6QjA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJbY98tBsDaDQRX6zt5lBRfT8/photos/AUc7tXW_9NDb9lmhqOurbdEbzUdxJLWIZJqKpkWD32-sWYvF1jTL4a31BROJB2jBRTiPWP2ZfKzFcbpxFYdzXZEa-R1wYCe5HeX6hpHzZpmCFxZycHmG805Ces6BpP0PvhwWEmsRsawueHgseE3ZZRBFotO5RLCuUWDaQgeZ",
+                    "widthPx": 4624,
+                    "heightPx": 3468,
+                    "authorAttributions": [
+                        {
+                            "displayName": "傅元凱",
+                            "uri": "//maps.google.com/maps/contrib/101071997504309593236",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLPlEyT4WupOLqypNTuhPkPT3QEX7qc7-BevNy2YE15Zj6UHQ=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesDessert": true,
+            "servesCoffee": true,
+            "goodForChildren": true,
+            "allowsDogs": true,
+            "restroom": true,
+            "goodForGroups": true,
+            "paymentOptions": {
+                "acceptsDebitCards": false,
+                "acceptsCashOnly": true,
+                "acceptsNfc": false
+            },
+            "parkingOptions": {
+                "freeParkingLot": true
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": false,
+                "wheelchairAccessibleSeating": false
+            }
+        },
+        {
+            "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA",
+            "id": "ChIJhVy3NHoCaDQRLEKVbemkTjA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "0970 335 483",
+            "internationalPhoneNumber": "+886 970 335 483",
+            "formattedAddress": "No. 101-3號, Zhongxing St, Zhonghe District, New Taipei City, Taiwan 235",
+            "addressComponents": [
+                {
+                    "longText": "101-3號",
+                    "shortText": "101-3號",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "en-US"
+                },
+                {
+                    "longText": "Zhongxing Street",
+                    "shortText": "Zhongxing St",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "復興里",
+                    "shortText": "復興里",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ],
+                    "languageCode": "zh-TW"
+                },
+                {
+                    "longText": "Zhonghe District",
+                    "shortText": "Zhonghe District",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "New Taipei City",
+                    "shortText": "New Taipei City",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Taiwan",
+                    "shortText": "TW",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "235",
+                    "shortText": "235",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7QP3XFVX+3X",
+                "compoundCode": "XFVX+3X Taiwan, 新北市中和區復興里"
+            },
+            "location": {
+                "latitude": 24.9926467,
+                "longitude": 121.4999669
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.991297419708502,
+                    "longitude": 121.49856981970849
+                },
+                "high": {
+                    "latitude": 24.993995380291505,
+                    "longitude": 121.50126778029149
+                }
+            },
+            "rating": 4.1,
+            "googleMapsUri": "https://maps.google.com/?cid=3480900884476805676",
+            "websiteUri": "https://www.facebook.com/SingaporeMian/",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 14,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 14,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 14,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 14,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 14,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 14,
+                            "minute": 30
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 17,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 21,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Friday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "utcOffsetMinutes": 480,
+            "adrFormatAddress": "<span class=\"street-address\">No. 101-3號, Zhongxing St, 復興里</span> <span class=\"locality\">Zhonghe District</span>, <span class=\"region\">New Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">235</span>",
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "userRatingCount": 206,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "新加坡鮮蝦麵",
+                "languageCode": "zh-TW"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": true,
+            "dineIn": true,
+            "reservable": false,
+            "servesBreakfast": false,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBeer": false,
+            "servesWine": false,
+            "servesBrunch": false,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 14,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 21,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 14,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 21,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 14,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 21,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 14,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 21,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 14,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 21,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 14,
+                            "minute": 30,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 17,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 21,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Tuesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Wednesday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Thursday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Friday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Saturday: 11:00 AM – 2:30 PM, 5:00 – 9:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "primaryType": "restaurant",
+            "shortFormattedAddress": "No. 101-3號, Zhongxing St",
+            "reviews": [
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/reviews/ChdDSUhNMG9nS0VJQ0FnSURpbkktVzZRRRAB",
+                    "relativePublishTimeDescription": "3 years ago",
+                    "rating": 1,
+                    "text": {
+                        "text": "Ordered their Curry Mee + Curry Puff via Food Panda; missed my order without my curry puff. As for curry Mee, it is really soso.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Ordered their Curry Mee + Curry Puff via Food Panda; missed my order without my curry puff. As for curry Mee, it is really soso.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Big Ben",
+                        "uri": "https://www.google.com/maps/contrib/117499367969624305513/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1qTcfj7HB3YskeCAdSgzHSg__7xBg29Oe41bTMKhX2gxYiPWPRg=s128-c0x00000000-cc-rp-mo-ba6"
+                    },
+                    "publishTime": "2020-11-28T13:19:20Z"
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/reviews/ChdDSUhNMG9nS0VJQ0FnSURUbGVienh3RRAB",
+                    "relativePublishTimeDescription": "a month ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "My wife went to get a manicure nearby and accidentally found this shop. I looked at the price and wow, there are very few Singaporean and Malaysian cuisines that are so cheap, so I came here to try it. My wife is Malaysian, so I came here to see if it tastes like home. .\n\nWe ordered curry rice, Hainanese chicken rice, and shrimp soup\nCurry rice is considered normal, but there will be some broken bones in the sauce, so be careful.\nHainanese chicken rice, the chicken oil rice is very good, many people in Singapore and Malaysia do this. I think the chicken is ordinary, the side dishes are delicious, the chili attached is very good, it also has the taste of Singapore and Malaysia. In addition, the sauce section also comes with chili soy sauce, which is ok Eat chili rice!\nThe shrimp soup, my wife said it really has the flavor of Singapore and Malaysia and she likes it very much.\nFinally, I took the curry puff home and it tasted exactly the same as in Singapore and Malaysia! It’s perfect for frying when you get home and you’re hungry 😂\nThere are also drinks available for internal use. Although the location is a bit crowded, the air conditioning is pretty good and I didn’t even sweat after eating.\n\nOverall, it is a very good restaurant with exotic food⋯ Recommended for people from Singapore and Malaysia to try it🤪",
+                        "languageCode": "en-US"
+                    },
+                    "originalText": {
+                        "text": "老婆去附近做美甲，無意間查到這間店，我看一下價格，哇，新馬料理這麼便宜的真得很少，就來試試了，我太太是馬來西亞人，來試試有沒有家鄉味。\n\n我們點了咖喱飯，海南雞飯，鮮蝦湯\n咖喱飯算正常，醬裡面會有些碎骨要小心。\n海南雞飯，飯是雞油飯很讚，新馬很多這樣做，雞我覺得普通，小菜好吃，附的辣椒很讚，也是有新馬的味道，另外醬料區也有附辣椒醬油，可以啃辣椒剋飯！\n鮮蝦湯，老婆說確實很有新馬味，很喜歡。\n最後外帶了咖哩卜回去，和新馬味道一模一樣！很適合回家餓的時候氣炸一下吃😂\n內用還有飲料可以喝，雖然位置有一點擠，但冷氣還不錯，吃完都沒有流汗。\n\n整體是一間很不錯的異國美食⋯推薦新馬的可以來試試🤪",
+                        "languageCode": "zh-Hant"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Wei Lin (陶)",
+                        "uri": "https://www.google.com/maps/contrib/106241835014735330395/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXo2cDaNujIh-WTdIH2SYFjU94ci77yfW8iRA4BcGA07NJ3OCUR=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2024-05-26T10:26:49Z"
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/reviews/ChdDSUhNMG9nS0VJQ0FnSURMajhfSWlRRRAB",
+                    "relativePublishTimeDescription": "a week ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "The soup is very delicious and generous. Highly recommended💯",
+                        "languageCode": "en-US"
+                    },
+                    "originalText": {
+                        "text": "湯頭非常鮮美，小氣十足，大推💯",
+                        "languageCode": "zh-Hant"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Wang Pam",
+                        "uri": "https://www.google.com/maps/contrib/114131228113678475047/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0Zty9eTGimFJDUxs4C3Jnp1UWLQG2gzzlRpsMj0GIAYIChoV5qg=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2024-07-02T10:16:21Z"
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/reviews/ChZDSUhNMG9nS0VJQ0FnSURUbG9QbER3EAE",
+                    "relativePublishTimeDescription": "a month ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "The shrimp soup is pretty good, slightly spicy\nBraised Pork Rice Pupu\nCurry puffs are very similar to curry dumplings. You can eat them.",
+                        "languageCode": "en-US"
+                    },
+                    "originalText": {
+                        "text": "鮮蝦湯還不錯喝，微辣\n滷肉飯普普\n咖哩卜很像咖哩餃可以吃吃看",
+                        "languageCode": "zh-Hant"
+                    },
+                    "authorAttribution": {
+                        "displayName": "方立言",
+                        "uri": "https://www.google.com/maps/contrib/114367629929829310511/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJyCFv3NY0L3MBRFwAvSHZTTlsQ9vWP3o52_68QFmaxjLz-Mg=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2024-05-24T11:06:59Z"
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGcmIyRTZnRRAB",
+                    "relativePublishTimeDescription": "8 months ago",
+                    "rating": 2,
+                    "text": {
+                        "text": "I watched the introduction of the TV show and came to eat it.\nBut it doesn’t seem as delicious as the show said\nOrdered a bowl of \"seafood rice noodles\" and two side dishes\nFirst I took a sip of the soup. The taste was not as rich as expected.\nThe fish plate was cut very thin and had no texture, and the shrimps were not fresh.\nOnly the taste of rice noodles is OK\nOn the contrary, the braised pig scalp is delicious.\nAnd the strange thing is... like the food court, customers are required to serve their own meals.\nDumbfounded",
+                        "languageCode": "en-US"
+                    },
+                    "originalText": {
+                        "text": "看了電視節目的介紹前來吃看看\n但似乎沒有節目中說的那樣美味\n點了一碗“海鮮米粉”和兩樣小菜\n首先喝了一口湯，口味沒有想像中的濃郁\n魚板切的很薄沒有口感，蝦子也不算新鮮\n只有米粉的口感算是OK\n反倒是豬頭皮滷的夠味好吃\n而奇怪的是…………竟然跟美食街一樣要客人自己端餐點\n傻眼",
+                        "languageCode": "zh-Hant"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Calvin Wang",
+                        "uri": "https://www.google.com/maps/contrib/115925260540574721836/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUq8-7egbeFNh6Za_DscWNEdnb0N9D0DEFFtz2Db4fklVxZQ3sT=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2023-10-31T07:17:45Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXWpBY-TaLbfNuXyQQ6NQuuxirduWXvK5wjOvfhD3OMiozdyDLdqhkPQkfl3OKtE8V8ObPRZAGqfQoX1OJhG4ej6pFzvNjg_3BgHPUJ87v-C4gP3b8gjMbQaChqteNXngJOnNAYLSlo7BIKFnQs2W5Daow1YpuzZ1gMz",
+                    "widthPx": 4080,
+                    "heightPx": 3072,
+                    "authorAttributions": [
+                        {
+                            "displayName": "高槻小智",
+                            "uri": "//maps.google.com/maps/contrib/108649877917127562460",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVOCS6RDryNh0Ob3wH76wkNBhI5zeYmPq8hHZQAyUF7UVqaCbc=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXVTDiXupQwtP0SJomlKRe4RHZ-mMKo8TbTvEr4n6KpolYvSyONiYqbX36xsjEjqzNRbrjFiTnA6jnTHLPNwn4nXAqf8fxiPYAeIRxmwg1ywq4NGnLN121YW18B4c-SlkLwvqlaqlgTdpLvacnZWXHXqOnYLLJfCPHod",
+                    "widthPx": 720,
+                    "heightPx": 720,
+                    "authorAttributions": [
+                        {
+                            "displayName": "丁勝榮",
+                            "uri": "//maps.google.com/maps/contrib/116881261783253436563",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVp9F1yKS_0xSmVgWvhYPGr399tHFDh5xn5_LDR0parc86NPxUN=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXUyBgvEaRRK_J4HtKOMSc_HJ5KZtToO_BKgL4VeqYmhtGYugp_xHytTUdC5D9HDjJOATDV3pO1TUJJO0Ag-VN37lQ3HkTQGzk3_Ed_1TXvZQI4BCuPI-Pmb28IcXGmbb7BHUAIkzCQ892w0bqnnv8ZDsgAQJyLhwHfd",
+                    "widthPx": 4032,
+                    "heightPx": 2268,
+                    "authorAttributions": [
+                        {
+                            "displayName": "E-How Chou",
+                            "uri": "//maps.google.com/maps/contrib/109974960831842914832",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWFYFK4MH4kUFJMABqF_6_QepTxI95sNG6rDKaTeYIpJB13GYJf=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXUkyjpO4EcMASZXN_xxMNsTbFOu3rkJ8FQLW07GJnkE0h89_WZRWqNVYrc8iUlEusJ1FbMeTSlSTv9LhoCNYlTzS9laLdYhk1EHVF54e1pq-MwBtXsomVwIu7fCgD9ccVnTBu3GVzC0MpLazVTlaziFxfSLyCm1cR1Q",
+                    "widthPx": 1504,
+                    "heightPx": 1128,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Wang Pam",
+                            "uri": "//maps.google.com/maps/contrib/114131228113678475047",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV0Zty9eTGimFJDUxs4C3Jnp1UWLQG2gzzlRpsMj0GIAYIChoV5qg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXXYs9Jqerqbq5OkiQWFOtRamyNJrTUNDBlMyPjp-sdKLHoLtPiivZuYrTiX9yoZvT7fFE6D4IZSfAZwYfAewe-uYSUdosBcMmr9dv_nM88qbUd1JW8YI9ji-X8bq6X4i1sZpa2CetjbWOj-zxjEE_iAGkUiJRH-OE1Z",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Kevin Lai",
+                            "uri": "//maps.google.com/maps/contrib/101086890597557110161",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKQkZi14d86Q7D5MAgod3XtZHewd2xDP5vP-MK9JbDoROX1Ig=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXU0IgoVfOkcIqWDqWrkYOcHkaRMbwgwumvZNLXsD4U6Y635v2STQsjKvdNNt-rN91FzADuUmxL0WqWBZ9Lrta_b0ZzuBlxMrPFVXF102Uun9zBL9n7xigDMDDsDDD6U7r1VARqU-IU6Jfka-dwhQOZ2spXeE0vUqF1Z",
+                    "widthPx": 3456,
+                    "heightPx": 4608,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Takoster",
+                            "uri": "//maps.google.com/maps/contrib/102034269343543146545",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUfQYWXfcByaVUfIH1-t_4JERxhazalNDlm493Q_uNAfipRbXZV=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXWy6foLtgV7TUcuHATrUKL9CpqCtfNLskU97IokmjRXjTGRva_oKZHOBVGeIdYEXgK6PIbjXTsJU2jnXc7hmL4B4iT4C39_uqhW25tCpD5VugyAUikV34YORXnN_1ZouMDsSGeQs_Rf8hBfjvPlNonMzP2RPGacyfFQ",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "何小汫",
+                            "uri": "//maps.google.com/maps/contrib/116794410446762950088",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXIA-7aKGsUzq1ZLAxZnjF3MTLcxmqa9lEg4Lu1XmbBuP5zVDOqmw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXUnBVVpJXCUitFWOFMRcIVqhevmkHYntWE-WqK5cAhtY885xWQCwstG_qDiydDLcKTNbty6DyNt2jDjNCmx6VS1nKOilpcSWIgM1bGFL526vQtBluSnhnckvLGCVCxETHm41YXjrGVh9DkD1hO4QKxv84NfwTrZm0-F",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "劉金燕",
+                            "uri": "//maps.google.com/maps/contrib/109554237609772129226",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKCvgSANLHUuvI44ntICEPNWcy1KAowQ1Jn4TtB8JD0umjmnw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXW7k5F9IX_7b_YOKqemZC8jUAqAClNQVHxi4sWbsI1BFVqZCGEhWvmuPiobF30ZL6WMDb2YsjJSc9QOg1ddSvT5AWi-EO8WUZsaAqyX-gC1j_EC7YXafro3SyFyGqT3GlHZgcMnfy63-hm64EL41sPjdpegG6MV2td3",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Wei Lin (陶)",
+                            "uri": "//maps.google.com/maps/contrib/106241835014735330395",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXo2cDaNujIh-WTdIH2SYFjU94ci77yfW8iRA4BcGA07NJ3OCUR=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJhVy3NHoCaDQRLEKVbemkTjA/photos/AUc7tXWvv_uv3UrXU9d7EUvTF_pP9oB16HYvwhPp5W5e2u_7RQ0Oo_223CnIUeGcnAO_zDyyNME7cvqpGszgSloiMG30byyxryuY8brtv3N-I18Ysd0ytWihT1wB2e0nhndJp_zZ3_jJb23Tl9SB5vbYLUl98rHMy5H1GNcc",
+                    "widthPx": 2468,
+                    "heightPx": 2252,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Meck大叔",
+                            "uri": "//maps.google.com/maps/contrib/112350194573469681900",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjULJXrmAmyDTywx474UC1N3M0v2aSFfWlztL-GTAX7Kcpfl3ryULw=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesCocktails": false,
+            "servesDessert": false,
+            "servesCoffee": false,
+            "goodForChildren": true,
+            "restroom": true,
+            "goodForGroups": false,
+            "parkingOptions": {
+                "freeParkingLot": false
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleEntrance": false,
+                "wheelchairAccessibleSeating": false
+            }
+        },
+        {
+            "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE",
+            "id": "ChIJBYBwAHwCaDQRWKgKvN9xPwE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "nationalPhoneNumber": "02 2245 3823",
+            "internationalPhoneNumber": "+886 2 2245 3823",
+            "formattedAddress": "No. 187號, Yuantong Rd, Zhonghe District, New Taipei City, Taiwan 235",
+            "addressComponents": [
+                {
+                    "longText": "187號",
+                    "shortText": "187號",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "en-US"
+                },
+                {
+                    "longText": "Yuantong Road",
+                    "shortText": "Yuantong Rd",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "正行里",
+                    "shortText": "正行里",
+                    "types": [
+                        "administrative_area_level_3",
+                        "political"
+                    ],
+                    "languageCode": "zh-TW"
+                },
+                {
+                    "longText": "Zhonghe District",
+                    "shortText": "Zhonghe District",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "New Taipei City",
+                    "shortText": "New Taipei City",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "Taiwan",
+                    "shortText": "TW",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "235",
+                    "shortText": "235",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "en-US"
+                }
+            ],
+            "plusCode": {
+                "globalCode": "7QP3XFVX+V2",
+                "compoundCode": "XFVX+V2 Taiwan, 新北市中和區正行里"
+            },
+            "location": {
+                "latitude": 24.9946457,
+                "longitude": 121.49753109999997
+            },
+            "viewport": {
+                "low": {
+                    "latitude": 24.9933388197085,
+                    "longitude": 121.4960993697085
+                },
+                "high": {
+                    "latitude": 24.996036780291504,
+                    "longitude": 121.4987973302915
+                }
+            },
+            "rating": 3.8,
+            "googleMapsUri": "https://maps.google.com/?cid=89915723317160024",
+            "websiteUri": "http://www.ohoh-yes.com.tw/",
+            "regularOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 23,
+                            "minute": 0
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 11:00 PM",
+                    "Tuesday: 11:00 AM – 11:00 PM",
+                    "Wednesday: 11:00 AM – 11:00 PM",
+                    "Thursday: 11:00 AM – 11:00 PM",
+                    "Friday: 11:00 AM – 11:00 PM",
+                    "Saturday: 11:00 AM – 11:00 PM",
+                    "Sunday: 11:00 AM – 11:00 PM"
+                ]
+            },
+            "utcOffsetMinutes": 480,
+            "adrFormatAddress": "<span class=\"street-address\">No. 187號, Yuantong Rd, 正行里</span> <span class=\"locality\">Zhonghe District</span>, <span class=\"region\">New Taipei City</span>, <span class=\"country-name\">Taiwan</span> <span class=\"postal-code\">235</span>",
+            "businessStatus": "OPERATIONAL",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "userRatingCount": 1037,
+            "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "iconBackgroundColor": "#FF9E67",
+            "displayName": {
+                "text": "Ohohyes Zhonghe Yuantong Branch",
+                "languageCode": "en"
+            },
+            "primaryTypeDisplayName": {
+                "text": "Restaurant",
+                "languageCode": "en-US"
+            },
+            "takeout": true,
+            "delivery": true,
+            "dineIn": true,
+            "servesBreakfast": false,
+            "servesLunch": true,
+            "servesDinner": true,
+            "servesBeer": false,
+            "servesWine": false,
+            "servesBrunch": false,
+            "currentOpeningHours": {
+                "openNow": true,
+                "periods": [
+                    {
+                        "open": {
+                            "day": 0,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 14
+                            }
+                        },
+                        "close": {
+                            "day": 0,
+                            "hour": 23,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 14
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 1,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        },
+                        "close": {
+                            "day": 1,
+                            "hour": 23,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 15
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 2,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        },
+                        "close": {
+                            "day": 2,
+                            "hour": 23,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 16
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 3,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        },
+                        "close": {
+                            "day": 3,
+                            "hour": 23,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 17
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 4,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        },
+                        "close": {
+                            "day": 4,
+                            "hour": 23,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 18
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 5,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        },
+                        "close": {
+                            "day": 5,
+                            "hour": 23,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 12
+                            }
+                        }
+                    },
+                    {
+                        "open": {
+                            "day": 6,
+                            "hour": 11,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        },
+                        "close": {
+                            "day": 6,
+                            "hour": 23,
+                            "minute": 0,
+                            "date": {
+                                "year": 2024,
+                                "month": 7,
+                                "day": 13
+                            }
+                        }
+                    }
+                ],
+                "weekdayDescriptions": [
+                    "Monday: 11:00 AM – 11:00 PM",
+                    "Tuesday: 11:00 AM – 11:00 PM",
+                    "Wednesday: 11:00 AM – 11:00 PM",
+                    "Thursday: 11:00 AM – 11:00 PM",
+                    "Friday: 11:00 AM – 11:00 PM",
+                    "Saturday: 11:00 AM – 11:00 PM",
+                    "Sunday: 11:00 AM – 11:00 PM"
+                ]
+            },
+            "primaryType": "restaurant",
+            "shortFormattedAddress": "No. 187號, Yuantong Rd",
+            "reviews": [
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwNTRpMktREAE",
+                    "relativePublishTimeDescription": "4 years ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Fresh meat, cold drink, rice, ice - cream can get with reasonable price.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Fresh meat, cold drink, rice, ice - cream can get with reasonable price.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "No Two",
+                        "uri": "https://www.google.com/maps/contrib/117058293902323890742/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIyEw-s3R9Iwe6xLyN4orjf9_aPTWWr_ngVj-g1kBGCsVbJfVsx=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2019-10-13T06:49:09Z"
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2OTVUbEF3EAE",
+                    "relativePublishTimeDescription": "2 years ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "Good",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Good",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Linh Trần",
+                        "uri": "https://www.google.com/maps/contrib/117658772260703913854/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrc08nqNfogGb-GyOqaicx-TjFJWNIpHMPhrCjUAbwFlGgSw=s128-c0x00000000-cc-rp-mo"
+                    },
+                    "publishTime": "2021-10-14T14:14:58Z"
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNODY3WldnEAE",
+                    "relativePublishTimeDescription": "4 years ago",
+                    "rating": 4,
+                    "text": {
+                        "text": "Cheap hot pot place. Pretty busy and popular.",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "Cheap hot pot place. Pretty busy and popular.",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Gary Patterson",
+                        "uri": "https://www.google.com/maps/contrib/114084756087168348055/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgL15JoAA8io17swQpSI40fcl_6BeIrV_B_BLFSfkpwQ1fEav8IA=s128-c0x00000000-cc-rp-mo-ba5"
+                    },
+                    "publishTime": "2019-12-05T04:09:27Z"
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/reviews/ChZDSUhNMG9nS0VJQ0FnSURDOVpXTEh3EAE",
+                    "relativePublishTimeDescription": "3 years ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "nice",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "nice",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "David Ko",
+                        "uri": "https://www.google.com/maps/contrib/106766571697451031047/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJS4dGdRWW0eD7bj5jCtK6_3_JddgqYNMyRM6HSTr2iseT5cQ=s128-c0x00000000-cc-rp-mo-ba4"
+                    },
+                    "publishTime": "2020-10-06T10:17:55Z"
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/reviews/ChZDSUhNMG9nS0VJQ0FnSURZcHRMMFp3EAE",
+                    "relativePublishTimeDescription": "5 years ago",
+                    "rating": 5,
+                    "text": {
+                        "text": "I love this place",
+                        "languageCode": "en"
+                    },
+                    "originalText": {
+                        "text": "I love this place",
+                        "languageCode": "en"
+                    },
+                    "authorAttribution": {
+                        "displayName": "Sithu Kyaw",
+                        "uri": "https://www.google.com/maps/contrib/111690457648681301649/reviews",
+                        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYJCfPtZG0izfzzkKb56hhHGTQVQniW6dq8L03qScZ1DywZ68EDw=s128-c0x00000000-cc-rp-mo-ba3"
+                    },
+                    "publishTime": "2019-05-10T11:59:52Z"
+                }
+            ],
+            "photos": [
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXWat9jheim93y8_-XrHKaH_NBvVVVqkYTYZ_0GySSrY3ItL3fU5tAwgz0NmtBVoyxedT6ARXY19bMTbtYqshEA58Ve-71eN-ESeF2Z2NAcdGEoZR8yjDH_skAMgB9JLuP6wrU1kx6QVcI39x8cTfx-S7L4nj8dUgm0W",
+                    "widthPx": 4608,
+                    "heightPx": 3456,
+                    "authorAttributions": [
+                        {
+                            "displayName": "主任",
+                            "uri": "//maps.google.com/maps/contrib/115306682287916218664",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWWcAiJhK0gXwuGVb4fG0CdGVviXKRKnU99wlVA_m1hl07nweC-=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXUT9iVwDs-K8RGjsrWwKZrIvFM1HGJvCBnXqkez_5H2D4ycSOndk9ojEbmxnbqlHtVTI-7JVKPQNXCOoWry9JqCOGZb4vGACcrpQF3YhhAlb29lepvqVlWQJpnis2tNgRNhaEdc28YNZUaETV-r4HPphgXY7TcYS74p",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Annie LIN",
+                            "uri": "//maps.google.com/maps/contrib/108176391721047541704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWyObjCjLX2Ml6MNqBDY_UQwLm-6D09042ErxrttwlNdC2n-fmHHA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXXtfKyvXzgjXGGP9-VBEcLkl2ko0vyDSEIXJc8Wl07beSgTL-Nq5O_6vflskXWQMH3uOI20NQwCQk-W0WaaE95AfzbSwDgGmDeZOn_2p11kTytFdQRMXSsJU18Bas_0elrNOgtJUOb377MXgir7wIkPN_udXrS5QwIa",
+                    "widthPx": 4032,
+                    "heightPx": 2269,
+                    "authorAttributions": [
+                        {
+                            "displayName": "大呼過癮 圓通店",
+                            "uri": "//maps.google.com/maps/contrib/115350096901732180319",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXxFIqJnqi_eZXHCwOWyL1ApUGSt8mQ2lMkPgubwY3IqEvWS1c=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXU98Yw7J4jjcdZHvxpieU6lMuxtZuUBbqG09GACci24PSOnK-YzMga8KvL7aQJCJRPBTxacDrLI828w7Fr7kOuuzT86C9kWv3CkDp3kuzLktCOFnm3aEsbQUmMdTOx3LMEyHkVFBqfhKreB3gTSztdnER9hru70ux70",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "郭庭瑋",
+                            "uri": "//maps.google.com/maps/contrib/110070422465648204000",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVkkbrpj1f6FD8XwSVBCQLX1-_cm64kiLadXzC7Vc5xmqjminc=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXUIUHgJYbLM2e3lPgkIqikxlK6eUdE0hfi80AKKsYzFze8qmTp3jPV7Lg9ObktXiOGfxoicp4nrKm3ItqgpvqgrhGsq0rCZdtJd7nyTAHsXXiG_BgR3K7-5ApwAA3K7sXEJKmcKifuprzovVg1Gq2j4AfcH_UIg4moY",
+                    "widthPx": 4032,
+                    "heightPx": 2688,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Hongkong Lee",
+                            "uri": "//maps.google.com/maps/contrib/107669756841819604428",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVpTjqa8vmju0AtuR2SL7DEwvtzij7DHRkI5T_wh-5HbNg5SOs5gw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXU9APg1ibXD61ZFUef5QAJYkWkcelXHAn_ATvm6SD9EhBf8yv8Vuae3Dj3lgl6i2dgqKFhl26fSRm46iSVKLITjJM8qtflcIupvRi1kh05TuSCesA7YgM8vMMpCkJOjCrLIb-lZIEW9B5JDV6HBUfYEZc8E2vczia0z",
+                    "widthPx": 4624,
+                    "heightPx": 3468,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Sophia Tang",
+                            "uri": "//maps.google.com/maps/contrib/104462434679958051423",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXODV5NbGyMMF7goXXtGRX9gQ_MJqILv-gyT3U9sUJowEJ9bdUMig=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXWJdOYgbuFACmxBQZAQ8oBnvbLzcRjpacKKCVrjX5N0cdFz3UhMyzvL3Jllkrb8tDartFwn3u4H4KcARnRJwLq8P1I4KSrrGikOfuR8KeazCVI1zeMb2SmlSkc9gO7zTmQeXzS2MKqD_LHmnsCfjpOrZ6oAWna5h4t7",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Eric Huang",
+                            "uri": "//maps.google.com/maps/contrib/110640037403544751698",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJEXc-PecSzeH2Dq6JO1mynK_QSmnAdUZEWtw0ArXkO2YSznyf0=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXWpc5Ztr0CtM-oJtVZyHy3LXB6XZqtgf8YuQEXEFtn4dP6oJjKimn13GxvArZ9D3Lawb9gSSgR5jKAmlJ71dt1Bnn1NKdLyvkfaZEheAo1G36IsBzYzM_OylEKUPiw1xfYDG8rc3iHjVgCDoMWbtf9AsUcR6PLZ0UcX",
+                    "widthPx": 3600,
+                    "heightPx": 4800,
+                    "authorAttributions": [
+                        {
+                            "displayName": "志mars",
+                            "uri": "//maps.google.com/maps/contrib/112313401006798388616",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlvKNtalEpTXgV3CYc9Q_ebR38HfiPdvjl2gCXOXSeo5wGdN9c=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXXyrUPviT-dGp6ZaADvlCs7gouF-SmgHzbZpFkH0STrjXsLsJw6ZoiPPu6ux_WpxxtR3LYOw4NF7CczVkMSVSPoItSGsRDXz3S0vr41eh-kVGTPvmTLhH9aHTdowspAjNKSIAyB87TwKxV5XfgEZbnZx2ZesHduD-zW",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "易藝",
+                            "uri": "//maps.google.com/maps/contrib/103542390248058415730",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXxUZaO9-4DRvndhhqH6UigzoZqqb3pZpbXunFpDAM2NvaJczo=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBYBwAHwCaDQRWKgKvN9xPwE/photos/AUc7tXWyOIxiquGx7gHoO9o_cY49xkxRHJKL2LXWxghrvTy5Ms2vntrY2hkWcsmWX4T9z4PDNyxHdQFeRjn2KKz8AsOuu8-gjzTslXisLuIF_DrQuhKEZETwUngbgm1w8lhS2CAbylqG3jIsXnKxccZtoMYf6xKVV_3DNqO-",
+                    "widthPx": 3000,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Eric Huang",
+                            "uri": "//maps.google.com/maps/contrib/110640037403544751698",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJEXc-PecSzeH2Dq6JO1mynK_QSmnAdUZEWtw0ArXkO2YSznyf0=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ],
+            "outdoorSeating": false,
+            "liveMusic": false,
+            "menuForChildren": false,
+            "servesCocktails": false,
+            "servesDessert": true,
+            "servesCoffee": false,
+            "goodForChildren": true,
+            "allowsDogs": false,
+            "restroom": true,
+            "goodForGroups": true,
+            "parkingOptions": {
+                "freeStreetParking": true
+            },
+            "accessibilityOptions": {
+                "wheelchairAccessibleParking": false,
+                "wheelchairAccessibleSeating": false
+            }
+        }
+    ]
+}
